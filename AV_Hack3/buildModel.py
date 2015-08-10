@@ -11,7 +11,6 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.cross_validation import KFold
 from sklearn import ensemble
 from sklearn.metrics import mean_squared_error
-sys.path.append("/home/sudalai/Softwares/xgboost-master/wrapper/")
 import xgboost as xgb
 
 if __name__ == "__main__":

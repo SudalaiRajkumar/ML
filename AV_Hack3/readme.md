@@ -6,7 +6,7 @@ http://discuss.analyticsvidhya.com/t/online-hackathon-3-0-find-the-next-brain-wo
 
 1. Converted all the categorical variables into one-hot encoded variables
 
-2. Truncate the "Project Evaluation" value at 99.9th percentile value (value is 6121) - As Nalin mentioned in his post, if the DV distribution is different in the test set, then am done.
+2. Truncate the "Project Evaluation" value at 99.9th percentile value (value is 6121) 
 
 3. Built tree based models by selecting the params through cross validation
 

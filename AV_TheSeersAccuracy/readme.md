@@ -4,7 +4,7 @@ Code for the Hackathon - [The Seers Accuracy](http://datahack.analyticsvidhya.co
 The objective of the competition is to predict whether the customer will come back in the next one year or not.
 
 ####Approach
-We had transaction data of all the customers from Jan 2003 to Dec 2006. The idea is to predict whether the customers will come back in 2007 or not. 
+We had transaction data of all the customers from Jan 2003 to Dec 2006. The idea is to predict whether the customer will come back in 2007 or not. 
 
 1. The first step was to create a proper validation framework since there was no "target" variable
 2. I have used transaction data from 2003 to 2005 to create the features. People who came back in 2006 were tagged as 1 and those who did not come back are tagged as 0, thereby getting the target column

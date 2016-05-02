@@ -10,7 +10,7 @@ We had transaction data of all the customers from Jan 2003 to Dec 2006. The idea
 2. I have used transaction data from 2003 to 2005 to create the features. People who came back in 2006 were tagged as 1 and others were tagged as 0, thereby getting the target column
 3. Feature selection, models tuning were done using this validation sample.
 4. For the final model, features were created using all the given data (2003 to 2006) and prediction was done for 2007.
-5. People were using different types of approaches as well. [Vopani](https://github.com/rohanrao91/AnalyticsVidhya_SeersAccuracy) followed a two stage validation approach using both 2005 and 2006 as validation sample.
+5. People were using different types of approaches as well. [Vopani](https://github.com/rohanrao91/AnalyticsVidhya_SeersAccuracy) followed a two stage validation approach using both 2005 and 2006 as validation samples.
 
 ####Codes 
 ######splitDevVal.py

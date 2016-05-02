@@ -1,7 +1,7 @@
 Code for the Hackathon - [The Seers Accuracy](http://datahack.analyticsvidhya.com/contest/the-seers-accuracy) by [Analytics Vidhya](http://www.analyticsvidhya.com/)
 
 ####Objective
-The objective of the competition is to predict whether the customer will come back in the next one year.
+The objective of the competition is to predict whether the customer will come back in the next one year or not.
 
 ####Approach
 We had transaction data of all the customers from Jan 2003 to Dec 2006. The idea is to predict whether the customers will come back in 2007 or not. 

@@ -1,0 +1,1 @@
+Codes and materials related to [Analytics Vidhya Datahack Summit workshop 2017](https://www.analyticsvidhya.com/datahacksummit/workshops/the-masterclass-how-to-win-data-science-challenges/) can be seen in this folder
